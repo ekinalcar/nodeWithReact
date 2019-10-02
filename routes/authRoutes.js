@@ -8,6 +8,9 @@ module.exports = app => {
     })
   );
 
+  app.get("/", (req, res) => {
+    res.send({hi: 'buddy'});
+  });
   app.get("/auth/google/callback", passport.authenticate("google"));
 
   app.get("/api/logout", (req, res) => {

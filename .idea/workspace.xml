@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8dc735b-dd75-4de9-8c56-9e1b93354a44" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/passport.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/passport.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/authRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/authRoutes.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +57,7 @@
       <workItem from="1570028394562" duration="14000" />
       <workItem from="1570034537515" duration="17000" />
       <workItem from="1570034634696" duration="48000" />
+      <workItem from="1570035397568" duration="88000" />
     </task>
     <servers />
   </component>
