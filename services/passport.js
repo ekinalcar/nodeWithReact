@@ -4,7 +4,7 @@ const keys = require("../config/keys");
 const mongoose = require("mongoose");
 const User = mongoose.model("users");
 
-// cookie handle stuff with cookieSession and passport
+// cookie handle stuff with cookieSession and passport.
 passport.serializeUser((user, done) => {
   done(null, user.id);
 });
