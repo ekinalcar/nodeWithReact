@@ -8,9 +8,6 @@ module.exports = app => {
     })
   );
 
-  app.get("/", (req, res) => {
-    res.send({hi: 'buddy'});
-  });
   app.get("/auth/google/callback", passport.authenticate("google"));
 
   app.get("/api/logout", (req, res) => {
@@ -18,7 +15,7 @@ module.exports = app => {
     res.send(req.user);
   });
 
-  app.get("/api/current", (req, res) => {
+  app.get("/api/current_user", (req, res) => {
     res.send(req.user);
   });
 };
