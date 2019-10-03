@@ -3,16 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="c8dc735b-dd75-4de9-8c56-9e1b93354a44" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/authRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/authRoutes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/passport.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/passport.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +78,7 @@
       <workItem from="1570035397568" duration="88000" />
       <workItem from="1570035699785" duration="1026000" />
       <workItem from="1570037171108" duration="161000" />
-      <workItem from="1570080708250" duration="7730000" />
+      <workItem from="1570080708250" duration="13524000" />
     </task>
     <servers />
   </component>
