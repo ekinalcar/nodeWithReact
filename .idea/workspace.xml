@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c8dc735b-dd75-4de9-8c56-9e1b93354a44" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,13 +28,13 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="add_unversioned_files" value="true&#10;/Users/ekinalcar/Projects/FullStack/nodeWithReact/server/config/prod.js" />
-    <property name="javascript.nodejs.core.library.configured.version" value="12.10.0" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/config/dev.js&#10;true&#10;/Users/ekinalcar/Projects/FullStack/nodeWithReact/server/config/prod.js" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.7.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.NodeInterpreter" value="project" />
-    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\ekina\AppData\Roaming\npm\node_modules\prettier" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -62,6 +64,8 @@
       <workItem from="1570034634696" duration="48000" />
       <workItem from="1570035397568" duration="88000" />
       <workItem from="1570035699785" duration="1026000" />
+      <workItem from="1570037171108" duration="161000" />
+      <workItem from="1570080708250" duration="1910000" />
     </task>
     <servers />
   </component>
